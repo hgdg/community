@@ -1,4 +1,4 @@
 {
-  "REDACTED_BUCKET": "cow-demo-redacted-bucket",
-  "NOT_REDACTED_BUCKET": "cow-demo-not-redacted-bucket"
+  "REDACTED_BUCKET": "bucket",
+  "NOT_REDACTED_BUCKET": "bucket"
 }
